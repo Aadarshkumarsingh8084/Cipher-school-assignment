@@ -1,0 +1,14 @@
+--> Features of Java
+
+1. Inspired by C and C++
+2. Simple and Familiar
+3. Object-Oriented
+4. Platform Independent
+5. Compiled and Interpreted
+6. Multi-Threaded
+7. Dynamic
+8. Robust
+9. Secure
+10. High Performance
+11. Portable
+12. Automatic Garbage Collection
