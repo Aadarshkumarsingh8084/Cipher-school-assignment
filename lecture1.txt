@@ -1,4 +1,5 @@
 OBJECTS
+
 An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It can be physical or logical (tangible and intangible). The example of an intangible object is the banking system.
 
 CLASS
